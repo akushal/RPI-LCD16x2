@@ -11,4 +11,4 @@ Raspberry PI B with LCD-16x2 running the Rasbian OS
 - kushal.py
 
 # Installation guide is on the folder Adafruit_python_charLCD
-
+- https://github.com/pimylifeup/Adafruit_Python_CharLCD.git 
